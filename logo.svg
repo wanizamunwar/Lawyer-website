@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title desc">
+  <title id="title">Panhwar and Law Associate logo</title>
+  <desc id="desc">Professional navy and gold logo for Advocate Uzair Panhwar and Panhwar and Law Associate.</desc>
+  <defs>
+    <linearGradient id="gold" x1="24" y1="18" x2="138" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAD3A0"/>
+      <stop offset=".5" stop-color="#D7AD61"/>
+      <stop offset="1" stop-color="#B98231"/>
+    </linearGradient>
+    <linearGradient id="navy" x1="22" y1="16" x2="140" y2="148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173B5A"/>
+      <stop offset="1" stop-color="#071522"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(2 2)">
+    <circle cx="80" cy="80" r="75" fill="url(#gold)"/>
+    <circle cx="80" cy="80" r="70" fill="url(#navy)" stroke="#F0D9A6" stroke-width="1.2"/>
+    <circle cx="80" cy="80" r="60" fill="none" stroke="#C99B4B" stroke-width="1" opacity=".32"/>
+    <g fill="none" stroke="url(#gold)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M80 24v45M58 103h44"/>
+      <path d="M53 34h54M57 34l-9 22h18L57 34zm46 0-9 22h18l-9-22z"/>
+      <path d="M48 56c0 8 4 13 9 13s9-5 9-13m28 0c0 8 4 13 9 13s9-5 9-13"/>
+      <path d="M75 24h10"/>
+    </g>
+    <text x="80" y="137" fill="#FFF9EB" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700" letter-spacing="-4" text-anchor="middle">UP</text>
+  </g>
+  <g transform="translate(190 0)">
+    <text x="0" y="75" fill="#0B1F33" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700" letter-spacing="1">PANHWAR <tspan fill="#B98231">&amp;</tspan> LAW</text>
+    <path d="M2 94h520" stroke="#C99B4B" stroke-width="2"/>
+    <text x="2" y="126" fill="#B98231" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="9">ASSOCIATE</text>
+    <text x="2" y="158" fill="#657183" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="2.5">ADV. UZAIR PANHWAR</text>
+  </g>
+</svg>
