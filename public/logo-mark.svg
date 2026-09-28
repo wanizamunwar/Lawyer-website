@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
-  <title id="title">UP monogram logo</title>
-  <desc id="desc">A navy and gold UP monogram with a justice scale for Panhwar and Law Associate.</desc>
+  <title id="title">UAK monogram logo</title>
+  <desc id="desc">A navy and gold UAK monogram with a justice scale for uzair abdul khalique law assocaites & Co.</desc>
   <defs>
     <linearGradient id="gold" x1="24" y1="18" x2="138" y2="146" gradientUnits="userSpaceOnUse">
       <stop stop-color="#EAD3A0"/>
@@ -21,5 +21,5 @@
     <path d="M48 56c0 8 4 13 9 13s9-5 9-13m28 0c0 8 4 13 9 13s9-5 9-13"/>
     <path d="M75 24h10"/>
   </g>
-  <text x="80" y="137" fill="#FFF9EB" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700" letter-spacing="-4" text-anchor="middle">UP</text>
+  <text x="80" y="137" fill="#FFF9EB" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700" letter-spacing="-4" text-anchor="middle">UAL</text>
 </svg>
