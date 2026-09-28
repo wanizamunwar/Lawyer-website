@@ -1,6 +1,6 @@
 # Panhwar & Law Associate Website
 
-A responsive, single-page professional website for Advocate Uzair Panhwar.
+A responsive, single-page professional website for Advocate advuzairkhalique.
 
 ## Included
 
@@ -34,4 +34,5 @@ Then open `http://localhost:8000`.
 
 ## Content to confirm
 
-The email address is currently set to `uzairpanhwar6@gmail.com`, based on the supplied text. The phone number is formatted for display as `0301 2541634` and for international links as `+92 301 2541634`.
+The email address is currently set to `advocateuzairkhalique@gmail.com`, based on the supplied text. The phone number is formatted for display as `0313 3295 901` and for international links as `+92 301 2541634`.
+
